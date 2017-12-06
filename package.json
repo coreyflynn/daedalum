@@ -1,6 +1,6 @@
 {
   "name": "daedalum",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A React animation utility",
   "main": "lib/index.js",
   "files": [
